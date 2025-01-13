@@ -1,3 +1,5 @@
 write a function to implement string operations such as compare, concatenate, and find string length. use the parameter passing techniques.
 
 compute cosx/sinx suing taylor series approximation. compare result with the built-in library function. print both results with approximate inferences.
+
+deadline = 14th jan 2025 evening by email.
